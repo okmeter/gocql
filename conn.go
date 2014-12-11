@@ -17,7 +17,7 @@ import (
 	"sync"
 	"sync/atomic"
 	"time"
-	"github.com/felixge/tcpkeepalive"
+	"github.com/okmeter/tcpkeepalive"
 )
 
 const defaultFrameSize = 4096
